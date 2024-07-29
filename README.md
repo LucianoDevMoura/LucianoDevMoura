@@ -18,7 +18,7 @@
 <details>	
   <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosvfb&hide_border=true&theme=dark"></a></p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=LucianoDevMoura&hide_border=true&theme=dark"></a></p>
 </details>
 
 ### 🖥 Linguagens:    
